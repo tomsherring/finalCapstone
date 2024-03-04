@@ -1,10 +1,4 @@
-
-import load_and_preprocess_data as preprocess
-import perform_sentiment_analysis as sentiment
-import visualise_sentiment_analysis as visualise
-
-def main():
-    """
+ """
     Main module function to load, preprocess, perform sentiment analysis and
     visualise the customer reviews data.
 
@@ -26,6 +20,12 @@ def main():
     sentiment analysis results.
 
     """
+
+import load_and_preprocess_data as preprocess
+import perform_sentiment_analysis as sentiment
+import visualise_sentiment_analysis as visualise
+
+def main():
    
     # Load and preprocess the data
     df = preprocess.load_and_preprocess()
