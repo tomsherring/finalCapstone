@@ -6,17 +6,17 @@ This project demonstrates sentiment analysis of customer reviews using SpaCy and
 
 ### Features
 
-**Data Preprocessing:**
+#### Data Preprocessing:
 Cleans and prepares customer review text data.
 Removes stop words, punctuation, and numeric characters.
 Lemmatizes text for linguistic analysis.
 
-**Sentiment Analysis:**
+#### Sentiment Analysis:
 Utilizes SpaCy TextBlob to extract sentiment assessments.
 Calculates polarity scores (positive/negative sentiment).
 Labels polarity scores and review ratings for interpretability.
 
-**Visualizations (Streamlit App):**
+#### Visualizations (Streamlit App):
 Distribution of polarity scores vs. review ratings.
 Polarity scores vs. labeled review ratings (for analyzing model performance).
 Accuracy and balanced accuracy scores.
