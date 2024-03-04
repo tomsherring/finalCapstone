@@ -1,4 +1,4 @@
-# Hyperion Dev Data Science (Fundamentals) Final Capstone Project: SpaCy TextBlob Sentiment Analysis
+# Hyperion Dev - Data Science (Fundamentals) Boot Camp - Final Capstone Project: SpaCy TextBlob Sentiment Analysis
 
 ## Overview
 
