@@ -25,8 +25,10 @@ Classification report for detailed performance metrics.
 
 ### Dataset
 
-**Source:** https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
-**Description:** The dataset is Datafiniti's 'Consumer Reviews of Amazon Products,' publically availabile via Kaggle. The dataset lists 'over 34,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more' derived from 'Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product.' The dataset needs to be downloaded, then saved as 'amazon_product_reviews.csv' in the projects root folder.
+#### Source: 
+https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
+#### Description: 
+The dataset is Datafiniti's 'Consumer Reviews of Amazon Products,' publically availabile via Kaggle. The dataset lists 'over 34,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more' derived from 'Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product.' The dataset needs to be downloaded, then saved as 'amazon_product_reviews.csv' in the projects root folder.
 
 ### Technologies
 
@@ -42,10 +44,14 @@ Seaborn,
 
 ### Installation
 
-**1. Clone Repository:** git clone https://github.com/tomsherring/finalCapstone
-**2. Create Virtual Environment:** python -m venv env
-                                   source env/bin/activate
-**3. Install Dependencies:** pip install -r requirements.txt
+#### 1. Clone Repository: 
+git clone https://github.com/tomsherring/finalCapstone
+#### 2. Create Virtual Environment: 
+python -m venv env
+source env/bin/activate
+
+#### 3. Install Dependencies: 
+pip install -r requirements.txt
 
 ### Usage
 
