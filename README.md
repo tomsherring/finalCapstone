@@ -55,12 +55,17 @@ pip install -r requirements.txt
 
 ### Usage
 
-**Prepare CSV**: Ensure you have downloaded and renamed the the Datafiniti Kaggle Dataset as 'amazon_product_reviews.csv,' saving to the repository's root folder.
+#### Prepare CSV:
+Ensure you have downloaded and renamed the the Datafiniti Kaggle Dataset as 'amazon_product_reviews.csv,' saving to the repository's root folder.
 
-**Run main.py:** python3 main.py. 
+#### Run main.py:
+python3 main.py
+
 Generates a CSV containing the results of the data preprocessing and sentiment analysis
 
-**Run Streamlit app:** streamlit run main.py
+#### Run Streamlit app: 
+streamlit run main.py
+
 Processes the input data and returns visualiations of the results, indludinng Seaborn histplots and Sci-kit Learn evaluation metrics.
 
 #### Required CSV Columns
@@ -84,10 +89,14 @@ This project welcomes contributions and suggestions. Feel free to open issues or
 
 ### Project Structure
 
-**load_and_preprocess_data.py: Module for loading and preprocessing review data.
-perform_sentiment_analysis.py: Module for performing sentiment analysis using SpaCy TextBlob.
-visualise_sentiment_analysis.py: Module for creating visualizations of the sentiment analysis results.
-main.py: The main script coordinating data loading, analysis, and visualization
+#### load_and_preprocess_data.py:
+Module for loading and preprocessing review data.
+#### perform_sentiment_analysis.py: 
+Module for performing sentiment analysis using SpaCy TextBlob.
+#### visualise_sentiment_analysis.py: 
+Module for creating visualizations of the sentiment analysis results.
+#### main.py:
+The main script coordinating data loading, analysis, and visualization
 
 ### Example Screenshots
 
