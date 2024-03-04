@@ -4,7 +4,7 @@
 
 This project demonstrates sentiment analysis of customer reviews using SpaCy and TextBlob. It includes modules for data preprocessing, sentiment analysis, and visualization, providing insights into customer opinions expressed in product reviews.
 
-#### Features
+### Features
 
 #### Data Preprocessing:
 Cleans and prepares customer review text data.
