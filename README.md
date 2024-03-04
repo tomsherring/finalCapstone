@@ -6,7 +6,7 @@ This project demonstrates sentiment analysis of customer reviews using SpaCy and
 
 ### Features
 
-#### Data Preprocessing:
+#### Data Preprocessing:
 Cleans and prepares customer review text data.
 Removes stop words, punctuation, and numeric characters.
 Lemmatizes text for linguistic analysis.
