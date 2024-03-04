@@ -100,6 +100,12 @@ The main script coordinating data loading, analysis, and visualization
 
 ### Example Screenshots
 
+<img width="1424" alt="Screenshot 2024-03-04 at 16 22 39" src="https://github.com/tomsherring/finalCapstone/assets/64788094/f4ad307b-be9e-476f-8066-9f426b8915fd">
+![image](https://github.com/tomsherring/finalCapstone/assets/64788094/22fbea36-52e0-4cf4-ac75-6a6ea571bc4d)
+![image](https://github.com/tomsherring/finalCapstone/assets/64788094/bfa23cb0-2a1a-4f1b-9b87-8e5079aba606)
+![image](https://github.com/tomsherring/finalCapstone/assets/64788094/6a94212e-aa00-4a2a-9fc1-e8972b49ae6d)
+
+
 
 
 
