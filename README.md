@@ -30,15 +30,15 @@ Classification report for detailed performance metrics.
 
 ### Technologies
 
-Python
-Streamlit
-SpaCy
-TextBlob
-pandas
-NumPy
-scikit-learn
-Matplotlib 
-Seaborn
+Python,
+Streamlit,
+SpaCy,
+TextBlob,
+pandas,
+NumPy,
+scikit-learn,
+Matplotlib, 
+Seaborn,
 
 ### Installation
 
